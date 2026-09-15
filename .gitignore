@@ -1,0 +1,17 @@
+# Gradle
+.gradle/
+build/
+.kotlin/
+out/
+
+# Kotlin
+*.hprof
+
+# IDE
+.idea/
+.vscode/
+.metals/
+*.iml
+
+# OS
+.DS_Store
